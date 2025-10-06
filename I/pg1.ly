@@ -27,21 +27,67 @@ nineBarBreak = {
 \score {
   \new GrandStaff <<
 
-    % Add the invisible voice with the break pattern
-    \new Voice { \nineBarBreak }
-    
-    \new Staff \with { instrumentName = "Clarinet in A" } <<
-      \set Staff.midiInstrument = "clarinet"
-      \global
-      \transpose la do {
-        \relative do' {
-          \clef treble
+      % Add the invisible voice with the break pattern
+      \new Voice { \nineBarBreak }
+
+      \new Staff \with {instrumentName = "Oboe 1"
+                        shortInstrumentName = "Ob1"
+                        midiInstrument = "oboe"
+      } <<
+        \clef treble
+        \global
+        \relative do'' {
+           \include "oboe_01.ly"
+        }
+      >>
+
+      \new Staff \with {instrumentName = "Oboe 2"
+                        shortInstrumentName = "Ob2"
+                        midiInstrument = "oboe"
+      } <<
+        \clef treble
+        \global
+        \relative do'' {
+           \include "oboe_02.ly"
+        }
+      >>
+
+      
+      \new Staff \with {instrumentName = "Clarinet 1 in A"
+                        shortInstrumentName = "Cl.1"
+                        midiInstrument = "clarinet"
+      } <<
+        \transpose la do' {
+        \clef treble
+        \global
+        
+        % The Clarinet in A player reads this key: D minor (one flat: B-flat)
+        
+        % The Clarinet in A part is written in D minor
+        % D minor Natural Scale (d, e, f, g, a, bes, c)
+        \relative re {
           \include "clarinet_01.ly"
         }
       }
-    >>
+      >>
 
-    \new Staff \with { instrumentName = "Fagotte" } <<
+      \new Staff \with {instrumentName = "Clarinet 2 in A"
+                        shortInstrumentName = "Cl.2"
+                        midiInstrument = "clarinet"
+      } <<
+        \transpose la do' {
+        \clef treble
+        \global
+        
+        \relative re' {
+          \include "clarinet_02.ly"
+        }
+      }
+      >>
+
+
+    \new Staff \with { instrumentName = "Fagotte"
+                       shortInstrumentName = "Fag."} <<
       \set Staff.midiInstrument = "bassoon"
         \relative do, {
         \global
@@ -50,8 +96,9 @@ nineBarBreak = {
       }
     >>
 
-    \new Staff \with { instrumentName = "Horn in F" } <<
-      \set Staff.midiInstrument = "trumpet"
+    \new Staff \with { instrumentName = "Horn in F"
+                       shortInstrumentName = "Hrn."} <<
+      \set Staff.midiInstrument = "french horn"
       \transpose fa do' { % Transpose the sounding F to written C
         \relative do' {
           \include "horn1_01.ly"
@@ -60,7 +107,9 @@ nineBarBreak = {
   >>
   
     
-    \new Staff \with { instrumentName = "Viola 1" } <<
+    \new Staff \with { instrumentName = "Viola 1"
+                       shortInstrumentName = "Vl.1"
+                     } <<
       \set Staff.midiInstrument = "viola"
       \relative do {
         \clef alto
@@ -69,7 +118,9 @@ nineBarBreak = {
       }
     >>
 
-    \new Staff \with { instrumentName = "Viola 2" } <<
+    \new Staff \with { instrumentName = "Viola 2"
+                       shortInstrumentName = "Vl.2"
+    } <<
       \set Staff.midiInstrument = "viola"
       \relative do {
         \clef alto
@@ -78,7 +129,8 @@ nineBarBreak = {
       }
     >>
 
-    \new Staff \with { instrumentName = "Bass 1" } <<
+    \new Staff \with { instrumentName = "Contrabass 1"
+                       shortInstrumentName = "Cb.1"} <<
       \set Staff.midiInstrument = "contrabass"
         \relative do {
           \clef "bass_8"
@@ -87,7 +139,9 @@ nineBarBreak = {
         }
     >>
 
-    \new Staff \with { instrumentName = "Bass 2" } <<
+    \new Staff \with { instrumentName = "Contrabass 2"
+                       shortInstrumentName = "Cb.2"
+    } <<
       \set Staff.midiInstrument = "contrabass"
       \transpose do do, {
         \relative do {
