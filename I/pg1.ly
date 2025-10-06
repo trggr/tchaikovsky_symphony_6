@@ -27,8 +27,27 @@ nineBarBreak = {
 \score {
   \new GrandStaff <<
 
-      % Add the invisible voice with the break pattern
-      \new Voice { \nineBarBreak }
+      \new Staff \with {instrumentName = "Flute 1"
+                        shortInstrumentName = "Fl.1"
+                        midiInstrument = "flute"
+      } <<
+        \clef treble
+        \global
+        \relative do'' {
+           \include "flute_01.ly"
+        }
+      >>
+
+      \new Staff \with {instrumentName = "Flute 2"
+                        shortInstrumentName = "Fl.2"
+                        midiInstrument = "flute"
+      } <<
+        \clef treble
+        \global
+        \relative do'' {
+           \include "flute_02.ly"
+        }
+      >>
 
       \new Staff \with {instrumentName = "Oboe 1"
                         shortInstrumentName = "Ob1"
@@ -128,6 +147,29 @@ nineBarBreak = {
         \include "viola2_01.ly"
       }
     >>
+
+    \new Staff \with { instrumentName = "Violoncello 1"
+                       shortInstrumentName = "Vc.1"
+    } <<
+      \set Staff.midiInstrument = "cello"
+      \relative do {
+        \clef bass
+        \global
+        \include "cello_01.ly"
+      }
+    >>
+
+    \new Staff \with { instrumentName = "Violoncello 2"
+                       shortInstrumentName = "Vc.2"
+    } <<
+      \set Staff.midiInstrument = "cello"
+      \relative do {
+        \clef bass
+        \global
+        \include "cello_02.ly"
+      }
+    >>
+
 
     \new Staff \with { instrumentName = "Contrabass 1"
                        shortInstrumentName = "Cb.1"} <<

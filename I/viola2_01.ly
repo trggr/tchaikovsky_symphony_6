@@ -21,6 +21,16 @@
    fad1\mf\> ~ |
    fad2\! (fad8)\pp r8 r4 |
 
+% page 3
+
+r2 r4                      fad'8\p\< (sol)         |
+sold4\> (lad8)\!  r8 r4    fad16\p\< (sol fad sol) |
+sold4\> (lad8)\!  r8 r4     r8 lad8                |
+r8 si r8 mi, r8 fad r8 lad,                        |
+r8 si r8 mi,8 (fad) r8 r4                          |
+
+
+
 
 
    
