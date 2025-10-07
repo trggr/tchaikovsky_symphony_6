@@ -7,7 +7,7 @@ r1 |
 r2 r4 si\p\< |
 dod2.\mf\> dod8\! r8 |
 r2 r4 fa8\p\< sol8 |
-lad2\mf\> (lad8\!) r8 r4 |
+la2\mf\> (la8\!) r8 r4 |
 r1 | r1 | r1 |
 
 % page 3

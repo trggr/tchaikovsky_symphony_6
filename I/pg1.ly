@@ -101,15 +101,15 @@ nineBarBreak = {
       >>
       
 
-%    \new Staff \with { instrumentName = "Fagotte"
-%                       shortInstrumentName = "Fag."} <<
-%      \set Staff.midiInstrument = "bassoon"
-%        \relative do, {
-%        \global
-%        \clef bass
-%        \include "fagotte_01.ly"
-%      }
-%    >>
+   \new Staff \with { instrumentName = "Fagotte"
+                      shortInstrumentName = "Fag."} <<
+     \set Staff.midiInstrument = "bassoon"
+       \relative do, {
+       \global
+       \clef bass
+       \include "fagotte_01.ly"
+     }
+   >>
 
     \new Staff \with { instrumentName = "Horn in F"
                        shortInstrumentName = "Hrn."} <<
@@ -122,27 +122,27 @@ nineBarBreak = {
   >>
   
     
-    %\new Staff \with { instrumentName = "Viola 1"
-    %                   shortInstrumentName = "Vl.1"
-    %                 } <<
-    %  \set Staff.midiInstrument = "viola"
-    %  \relative do {
-    %    \clef alto
-    %    \global
-    %    \include "viola1_01.ly"
-    %  }
-    %>>
+    \new Staff \with { instrumentName = "Viola 1"
+                      shortInstrumentName = "Vl.1"
+                    } <<
+     \set Staff.midiInstrument = "viola"
+     \relative do {
+       \clef alto
+       \global
+       \include "viola1_01.ly"
+     }
+    >>
 
-%     \new Staff \with { instrumentName = "Viola 2"
-%                        shortInstrumentName = "Vl.2"
-%     } <<
-%       \set Staff.midiInstrument = "viola"
-%       \relative do {
-%         \clef alto
-%         \global
-%         \include "viola2_01.ly"
-%       }
-%     >>
+    \new Staff \with { instrumentName = "Viola 2"
+                       shortInstrumentName = "Vl.2"
+    } <<
+      \set Staff.midiInstrument = "viola"
+      \relative do {
+        \clef alto
+        \global
+        \include "viola2_01.ly"
+      }
+    >>
 
     \new Staff \with { instrumentName = "Violoncello 1"
                        shortInstrumentName = "Vc.1"
