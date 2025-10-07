@@ -18,6 +18,13 @@ nineBarBreak = {
   }
 }
 
+\layout {
+  \context {
+    \Staff
+    \RemoveAllEmptyStaves  % Hides all empty staves, including on the first system
+  }
+}
+
 \header {
   title = "Symphony No. 6"
   subtitle = "First Movement: Allegro non troppo"
@@ -101,8 +108,8 @@ nineBarBreak = {
       >>
       
 
-   \new Staff \with { instrumentName = "Fagotte"
-                      shortInstrumentName = "Fag."} <<
+   \new Staff \with { instrumentName = "Fagotte 1"
+                      shortInstrumentName = "Fag.1"} <<
      \set Staff.midiInstrument = "bassoon"
        \relative do, {
        \global
@@ -111,6 +118,16 @@ nineBarBreak = {
      }
    >>
 
+   \new Staff \with { instrumentName = "Fagotte 2"
+                      shortInstrumentName = "Fag.2"} <<
+     \set Staff.midiInstrument = "bassoon"
+       \relative do, {
+       \global
+       \clef bass
+       \include "fagotte_02.ly"
+     }
+   >>
+   
     \new Staff \with { instrumentName = "Horn in F"
                        shortInstrumentName = "Hrn."} <<
       \set Staff.midiInstrument = "french horn"
@@ -121,6 +138,17 @@ nineBarBreak = {
       }
   >>
   
+
+    \new Staff \with { instrumentName = "Violin 1"
+                      shortInstrumentName = "Viol.1"
+                    } <<
+     \set Staff.midiInstrument = "violin"
+     \relative do {
+       \clef treble
+       \global
+       \include "violin_01.ly"
+     }
+    >>
     
     \new Staff \with { instrumentName = "Viola 1"
                       shortInstrumentName = "Vl.1"
@@ -168,7 +196,10 @@ nineBarBreak = {
 
 
     \new Staff \with { instrumentName = "Contrabass 1"
-                       shortInstrumentName = "Cb.1"} <<
+                       shortInstrumentName = "Cb.1"
+                       midiMinimumVolume = #0.1  % Adjust the minimum (for soft dynamics)
+                       midiMaximumVolume = #0.5  % Adjust the maximum (for loud dynamics)
+    } <<
       \set Staff.midiInstrument = "contrabass"
         \relative do {
           \clef "bass_8"
@@ -179,6 +210,8 @@ nineBarBreak = {
 
     \new Staff \with { instrumentName = "Contrabass 2"
                        shortInstrumentName = "Cb.2"
+                       midiMinimumVolume = #0.1  % Adjust the minimum (for soft dynamics)
+                       midiMaximumVolume = #0.5  % Adjust the maximum (for loud dynamics)
     } <<
       \set Staff.midiInstrument = "contrabass"
       \transpose do do, {

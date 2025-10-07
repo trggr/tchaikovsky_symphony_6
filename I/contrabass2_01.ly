@@ -20,3 +20,24 @@ r1 |
 r1 |
 lad1\mf\> ~ |
 lad2\! (lad8)\pp r8 r4 |
+
+% page 3
+r1 | r1 | r1 | r1 | r1 |
+
+% page 4
+r1 | r1 | r1 | r1 |
+r2 r4 r8 si8 ~ |
+
+% page 5 29 - 32
+
+si8 sol    sol4 sol8 r8  r4 |
+
+\time 2/4
+
+r2 |
+
+\time 4/4
+
+r1 |
+r1 |
+

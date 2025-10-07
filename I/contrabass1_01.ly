@@ -16,3 +16,27 @@ fad8\p\! r8 r4 r2 |
 r1 | r1 | r1 | r1 |
 fad1\mf\> ~ |
 fad2\! (fad8)\pp r8 r4 |
+
+
+% page 3
+r1 | r1 | r1 | r1 | r1 |
+
+% page 4
+r1 | r1 | r1 | r1 |
+r2 r4 r8 sol8 ~ |
+
+% page 5 29 - 32
+
+sol8 mi    mi4 mi8 r8  r4 |
+
+\time 2/4
+
+r2 |
+
+\time 4/4
+
+r1 |
+r1 |
+
+
+

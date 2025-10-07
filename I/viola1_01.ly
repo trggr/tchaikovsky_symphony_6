@@ -41,6 +41,30 @@ sol (fad) mi re  dod re dod si   lad8  r8    r4 |
 
 \break
 
+% page 4 24 - 28
+r1 | r1 | r1 |
+r2 r4                      mi''16 re dod si |
+la16 sol fad mi            r4 r2 |
+
+\break
+
+% page 5 29 - 32
+r1 |
+
+\time 2/4
+
+r4 mi,4 |
+
+\time 4/4
+
+fad4 (sol8) r8 r4    mi8 mid8 |
+fad4 (sol8) r8 r4    re16 re re re |
+
+
+ 
+
+
+
 
 
 
