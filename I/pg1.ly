@@ -128,16 +128,31 @@ nineBarBreak = {
      }
    >>
    
-    \new Staff \with { instrumentName = "Horn in F"
-                       shortInstrumentName = "Hrn."} <<
+    \new Staff \with { instrumentName = "Horn 1 in F"
+                       shortInstrumentName = "Hrn.1"
+                       \transposition fa
+    } <<
       \set Staff.midiInstrument = "french horn"
-      \transpose fa do' { % Transpose the sounding F to written C
+        \key do \major
+        \clef treble
+        
         \relative do' {
           \include "horn1_01.ly"
-        }
       }
   >>
-  
+
+    \new Staff \with { instrumentName = "Horn 2 in F"
+                       shortInstrumentName = "Hrn.2"
+                       \transposition fa
+    } <<
+      \set Staff.midiInstrument = "french horn"
+        \key do \major
+        \clef treble
+        
+        \relative do' {
+          \include "horn2_01.ly"
+      }
+  >>
 
     \new Staff \with { instrumentName = "Violin 1"
                       shortInstrumentName = "Viol.1"
@@ -149,7 +164,18 @@ nineBarBreak = {
        \include "violin_01.ly"
      }
     >>
-    
+
+    \new Staff \with { instrumentName = "Violin 2"
+                      shortInstrumentName = "Viol.2"
+                    } <<
+     \set Staff.midiInstrument = "violin"
+     \relative do {
+       \clef treble
+       \global
+       \include "violin_02.ly"
+     }
+    >>
+
     \new Staff \with { instrumentName = "Viola 1"
                       shortInstrumentName = "Vl.1"
                     } <<
