@@ -5,6 +5,8 @@
   #(set-paper-size "tabloid")
 }
 
+#(set-default-paper-size "legallandscape")
+
 global = {
   \time 4/4
   \tempo 4 = 54
