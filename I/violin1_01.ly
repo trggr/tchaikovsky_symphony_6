@@ -36,6 +36,7 @@ fa4\> mi8\!   r8 r4    fa8 sol    |
 lab8 sol     fa16 sib la fa     la8 sol   sold lad |
 si8\> lad    sold16\> (dod si sold)\>   si8\> (la)  si\mp\< (dod) |
 
+\break
 
 % page 7
 

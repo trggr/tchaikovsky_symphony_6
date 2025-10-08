@@ -154,25 +154,36 @@ nineBarBreak = {
       }
   >>
 
-    \new Staff \with { instrumentName = "Violin 1"
-                      shortInstrumentName = "Viol.1"
+    \new Staff \with { instrumentName = "Violin1.1"
+                      shortInstrumentName = "Viol1.1"
                     } <<
      \set Staff.midiInstrument = "violin"
      \relative do {
        \clef treble
        \global
-       \include "violin_01.ly"
+       \include "violin1_01.ly"
      }
     >>
 
-    \new Staff \with { instrumentName = "Violin 2"
-                      shortInstrumentName = "Viol.2"
+    \new Staff \with { instrumentName = "Violin1.2"
+                      shortInstrumentName = "Viol1.2"
                     } <<
      \set Staff.midiInstrument = "violin"
      \relative do {
        \clef treble
        \global
-       \include "violin_02.ly"
+       \include "violin1_02.ly"
+     }
+    >>
+
+    \new Staff \with { instrumentName = "Violin2.1"
+                      shortInstrumentName = "Viol2.1"
+                    } <<
+     \set Staff.midiInstrument = "violin"
+     \relative do {
+       \clef treble
+       \global
+       \include "violin2_01.ly"
      }
     >>
 
