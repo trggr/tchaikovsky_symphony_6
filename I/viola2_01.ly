@@ -54,4 +54,26 @@ r2 |
 
 r1 |
 r2 r4 sol4 |
+
+
+% page 6 33
+
+la4                  sib8  r8             r4             sol8 sold |
+la4                  sib8  r8             r4             fa16 fa fa fa |
+fa16 fa fa fa        fa16 fa fa fa        fa16 fa fa fa  sold sold sold sold |
+sold sold sold sold  sold sold sold sold sold sold sold  sold si si si si|
+
+\break
+
+% page 7 37
+
+si8 r8 si'8 r8 fad r8 fad r8 |
+fad' r8 r4 r2 |
+r1 |
+r2 dod,2 |
+
+ 
+
+
+% page 8   
    

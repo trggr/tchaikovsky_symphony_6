@@ -38,6 +38,13 @@ r2 |
 
 \time 4/4
 
-r1 |
-r1 |
+r1 * 2 |
 
+
+% page 6 33
+r1 * 4 |
+
+% page 7 37
+r1 * 2 |
+sol2\ff\> la |
+si dod8\mf\! r8 r4 |

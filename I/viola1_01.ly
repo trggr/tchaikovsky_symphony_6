@@ -61,10 +61,20 @@ fad4 (sol8) r8 r4    mi8 mid8 |
 fad4 (sol8) r8 r4    re16 re re re |
 
 
- 
+% page 6 33
 
+re16 re re re  re dod re mi      sol fa mi re   re re re re |
+re16 re re re  re dod re mi      sol fa mi re   re8 reb |
+do8 r8         re16 re reb reb   do8 r8         fa8 mi |
+red8 r8        mid16 mid mi mi   red8 r8        sold8 sol |
 
+\break
 
+% page 7 37
 
+fad8 r8   si r8  si' r8 si r8 |
+si8 re fad si  r2 |
+r1 |
+r2 mi,,2 |
 
-
+% page 8   

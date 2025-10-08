@@ -40,4 +40,17 @@ re4\> (re8)\! r8 r4   re ~ |
 
 re4\> (re8)\! r8 r4   fa |
 
+% page 6 33
 
+fad4 (fad8) r8 r4  fad4 ~ |
+fad4 (fad8) r8 r4  lab4 ~ |
+lab8 r8 lab4 (lab8) r8 si4 |
+si8 r8 si4 si8 r8 re4 ~ |
+
+% page 7 37
+
+re8 r8 r4 r2 |
+r1 * 3 |
+
+
+ 

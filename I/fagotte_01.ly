@@ -31,6 +31,33 @@ r1 | r1 | r1 | r1 |
 
 r4 r8 si'8 (si8) si,8 (si8) r8 |
 
+% page 5 29 - 32
+
+r1 |
+
+\time 2/4
+
+r2 |
+
+\time 4/4
+
+r1 * 2 |
+
+
+% page 6 33
+r1 * 4 |
+
+% page 7 37
+r1 * 4 |
+
+\break
+
+% page 8 41
+r1 * 2 |
+r8 dod8 si la sol fad mi r8 |
+r1 |
+
+
 
 
 

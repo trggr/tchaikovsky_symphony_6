@@ -39,4 +39,16 @@ si si si si   si lad si dod   mi re dod si   si si si si |
 si si si si   si lad si dod   mi re dod si   sib4 |
 
 
+% page 6 33
+
+la4 sol8 r8 r4 si8 sib |
+sol4 sol8 r8 r2 |
+r1 * 2|
+
+
+% page 7 37
+r1 * 3 |
+r2 <dod, mi>
+
+
 

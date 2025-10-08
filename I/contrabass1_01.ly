@@ -38,5 +38,13 @@ r2 |
 r1 |
 r1 |
 
+% page 6 33
+r1 * 4 |
+
+% page 7 37
+r1 * 2 |
+si2\ff\> dod |
+re mi8\mf\! r8 r4 |
+
 
 
