@@ -52,5 +52,8 @@ si8 r8 si4 si8 r8 re4 ~ |
 re8 r8 r4 r2 |
 r1 * 3 |
 
+% page 8 41
 
+r1 * 3 |
+r2 r8 la sol fa |
  

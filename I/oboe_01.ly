@@ -9,5 +9,36 @@ r2 r4 re8\p\< (mi8) |
 fad2.\mf\> (fad8)\! r8 |
 r1 | r1 | r1 | r1 | r1 |
 
+% page 3
+r1 * 5 |
+
+% page 4
+
+r1 * 5 |
+
+% page 5 29 - 32
+r1 |
+
+\time 2/4
+
+r2 |
+
+\time 4/4
+
+r1 * 2|
 
 
+% page 6 33
+
+r1 * 4 |
+
+\break
+
+% page 7 37
+
+r1 * 4 |
+
+% page 8 41
+
+r1 * 3 |
+r2 r8 fad8 mi re |

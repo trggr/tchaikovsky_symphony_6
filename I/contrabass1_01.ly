@@ -46,5 +46,11 @@ r1 * 2 |
 si2\ff\> dod |
 re mi8\mf\! r8 r4 |
 
+% page 8 41
+r2 r8  la,16 la la8 la |
+fad2 fad8 sol' fad mi |
+re dod si la   sol fad mi mi' |
+re2 re8 r8 r4 |
+
 
 

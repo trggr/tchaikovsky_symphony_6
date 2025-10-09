@@ -22,6 +22,32 @@ sol fad fad fad    si re, re re    re dod dod dod  la' dod, dod dod |
 dod si si si       sol' fad mi re  dod si la sol   r4 |
 r1 |
 
+% page 5 29 - 32
+r1 |
+
+\time 2/4
+
+r2 |
+
+\time 4/4
+
+r1 * 2|
+
+
+% page 6 33
+
+r1 * 4 |
+
+\break
+
+% page 7 37
+
+r1 * 4 |
+
+% page 8 41
+
+r1 * 3 |
+r2 r8 fad''8 mi re |
 
 
 

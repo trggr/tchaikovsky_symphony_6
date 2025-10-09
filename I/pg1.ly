@@ -59,7 +59,7 @@ nineBarBreak = {
       >>
 
       \new Staff \with {instrumentName = "Oboe 1"
-                        shortInstrumentName = "Ob1"
+                        shortInstrumentName = "Ob.1"
                         midiInstrument = "oboe"
       } <<
         \clef treble
@@ -70,7 +70,7 @@ nineBarBreak = {
       >>
 
       \new Staff \with {instrumentName = "Oboe 2"
-                        shortInstrumentName = "Ob2"
+                        shortInstrumentName = "Ob.2"
                         midiInstrument = "oboe"
       } <<
         \clef treble

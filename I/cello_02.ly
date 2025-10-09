@@ -39,4 +39,16 @@ r4 sol |
 
 fad4 mi8 r8 r4 sold8 sol |
 fad4 mi8 r8           r2 |
- 
+
+% page 6 33
+
+r1 * 4 |
+
+% page 7 37
+r1 * 4 |
+
+% page 8 41
+re2 mi |
+fad16 sold la sold   la sold la sold   la8 sol'     fad mi |
+re8 mi16 mi    fad8 dod     re8 la16 la  si8 mi |
+re2    re8 re16 re   mi8 re |

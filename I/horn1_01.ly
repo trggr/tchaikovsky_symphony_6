@@ -1,14 +1,13 @@
 % page 1
-          r1 | r1 | r1 | r1 | r1 |
-          r1 | r1 | r1 | r1 |
+r1 * 9 |
 
 % page 2
  r1              |
  r1              |
  dod'1\pp\< ~      |
  dod2.\mf\> ~ dod8\! r8 |
- dod,1 \pp ~       |
- dod2 (dod8) r8 r4 |
+ dod,1\pp\< ~       |
+ dod2\mf\> (dod8)\! r8 r4 |
  r1 |
  r1 |
  r1 |

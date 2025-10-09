@@ -50,5 +50,12 @@ r1 * 2|
 r1 * 3 |
 r2 <dod, mi>
 
+% page 8 41
+fad2 sol |
+la16 si la si  la si la si  la8 sol'     fad mi |
+re8 mi16 mi    fad8 dod     re8 la16 la  si8 mi |
+re2    re8 re16 re   mi8 re |
+
+
 
 

@@ -82,4 +82,5 @@ r2 mi,,2 |
 <dod mi>16 <dod mi> <si re> <la dod>   <sol si> <fad la> <mi sol> <si re> <dod mi>2 |
 <dod mi>16 re si re     si re si re  si8 mi16 mi re8 sol |
 fad8 la16 la   re8 re,    si' si,16 si  sol'8 dod,8 | 
-dod'2    (dod8) dod16 dod16   la8 sol8 |
+fad16 mid fad mid    fad mid fad mid   fad8 fad16 fad16   fad8 fad |
+

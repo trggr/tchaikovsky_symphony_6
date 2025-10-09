@@ -45,7 +45,13 @@ si lad dod lad    re dod mi re   fad2\ff ~  |
 fad16 mi re dod   si\> la sol fad  mi8\! r8 r4 |
 r1 |
 
-% page 8   
+% page 8 41
+
+r1 |
+r2 r8  dod,16 dod  re8 dod |
+fad la16 la   re8 fad,  si8 re,16 re sol8 la, |
+la16 si la si  la16 si la si   la8 fad16 fad16   la8 si |
+
 
 
 
