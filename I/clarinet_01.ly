@@ -56,4 +56,9 @@ r1 * 3 |
 
 r1 * 3 |
 r2 r8 la sol fa |
- 
+
+% page 9 45
+mi8 re do si la sol fa mi |
+mi'16 fa mi fa mi fa mi fa mi8 r8 r4 |
+r1 |
+r2 r8  mi'8 re do |

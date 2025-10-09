@@ -46,14 +46,10 @@ r2 r8  lad16 lad si8 lad |
 si mi16 mi  fad8 dod  re la16 la si8 fad |
 r16 sold16 la sold  la sold la sold  la8 r8  r4 |
 
-
-
-
+% page 9 45
+r2 r4 r8 sold8 |
+la16 sold la sold la sold la sold   la8 mid'16 mid  fad8 mid |
+fad8 si16 si   dod8 sold  la8 mi16 mi fad8 re |
+r16 red16 dod red dod red dod red  dod8 dod16 dod16 dod8 dod |
 
  
-
-
-
-
-
-

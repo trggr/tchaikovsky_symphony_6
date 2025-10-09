@@ -52,15 +52,10 @@ r2 r8  dod,16 dod  re8 dod |
 fad la16 la   re8 fad,  si8 re,16 re sol8 la, |
 la16 si la si  la16 si la si   la8 fad16 fad16   la8 si |
 
-
-
-
-
-
- 
-
-
-
-
+% page 9 45
+dod8 re16 re fad8 si, dod sold16 sold la8 si |
+fad'16 si, fad' si, fad' si, fad' si,   fad'8 sold16 sold la8 sold |
+dod8 mi16 mi la8 dod, fad la,16 la re8 mi, |
+mi16 fad mi fad mi fad mi fad mi8 red16 red mi8 fad |
 
 

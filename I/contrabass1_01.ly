@@ -52,5 +52,9 @@ fad2 fad8 sol' fad mi |
 re dod si la   sol fad mi mi' |
 re2 re8 r8 r4 |
 
-
-
+% page 9 45
+r1 |
+r2 r8 re' dod si |
+la sold fad mi re dod si si' |
+la2 la8 r8 r4 |
+ 

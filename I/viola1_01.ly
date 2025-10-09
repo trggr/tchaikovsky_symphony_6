@@ -84,3 +84,9 @@ r2 mi,,2 |
 fad8 la16 la   re8 re,    si' si,16 si  sol'8 dod,8 | 
 fad16 mid fad mid    fad mid fad mid   fad8 fad16 fad16   fad8 fad |
 
+% page 9 45
+fad8 r dod' r la r fad mid |
+fad2 fad8 si16 si la8 dod |
+dod mi16 mi  la8 dod,  fad la,16 la   re8 sold, |
+dod16 sid dod sid   dod sid dod sid  dod8 la16 la   sold8 fad |
+

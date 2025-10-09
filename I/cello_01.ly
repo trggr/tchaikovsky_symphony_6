@@ -56,6 +56,9 @@ la16 si la si  la si la si  la8 sol'     fad mi |
 re8 mi16 mi    fad8 dod     re8 la16 la  si8 mi |
 re2    re8 re16 re   mi8 re |
 
-
-
-
+% page 9 45
+la8 fad'16 fad   dod8 re  la8 si16 si fad8 mid |
+fad2   fad8 re'' dod si |
+la si16 si dod8 sold la mi16 mi  fad8 si |
+la2 la8 r8 r4 |
+ 

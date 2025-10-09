@@ -58,6 +58,17 @@ nineBarBreak = {
         }
       >>
 
+      \new Staff \with {instrumentName = "KL. Fl."
+                        shortInstrumentName = "Kl.Fl"
+                        midiInstrument = "flute"
+      } <<
+        \clef treble
+        \global
+        \relative do'' {
+           \include "flute_03.ly"
+        }
+      >>
+      
       \new Staff \with {instrumentName = "Oboe 1"
                         shortInstrumentName = "Ob.1"
                         midiInstrument = "oboe"

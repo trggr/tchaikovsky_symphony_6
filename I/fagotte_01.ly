@@ -57,8 +57,7 @@ r1 * 2 |
 r8 dod8 si la sol fad mi r8 |
 r1 |
 
-
-
-
-
-
+% page 9 45
+r1 * 2 |
+r8 sold'8 fad mi re dod  si8 r8 |
+r1 |
