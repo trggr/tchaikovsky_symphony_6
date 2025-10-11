@@ -62,3 +62,8 @@ mi8 re do si la sol fa mi |
 mi'16 fa mi fa mi fa mi fa mi8 r8 r4 |
 r1 |
 r2 r8  mi'8 re do |
+
+% page 49
+si8 la sol fad mi re do si |
+si'16 do si do si do si do si8 r8 r4 |
+r1 * 2 |

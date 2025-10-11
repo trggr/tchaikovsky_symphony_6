@@ -59,3 +59,10 @@ dod8 mi16 mi la8 dod, fad la,16 la re8 mi, |
 mi16 fad mi fad mi fad mi fad mi8 red16 red mi8 fad |
 
 
+% bar 49
+sold8 la16 la   dod8 fad,  sold8 red16 red mi8 fad |
+dod'16 fad, dod' fad, dod' fad, dod' fad,   dod'\mp dod' dod dod   dod la sid dod |
+sold la sold fad mi red dod sid   dod8 r8 r4 |
+r2 r16 dod' dod dod dod mi sid dod |
+
+

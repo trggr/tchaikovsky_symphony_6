@@ -62,3 +62,9 @@ fad2   fad8 re'' dod si |
 la si16 si dod8 sold la mi16 mi  fad8 si |
 la2 la8 r8 r4 |
  
+% bar 49
+r2 r4 r8 sid8\p |
+dod2 dod8 sold,8\mp r4 |
+sold'2 sold16 dod dod dod dod mi red dod |
+sid dod sid la sold la sold sold, sol8 sol r4 |
+

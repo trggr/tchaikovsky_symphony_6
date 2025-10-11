@@ -53,3 +53,9 @@ fad8 si16 si   dod8 sold  la8 mi16 mi fad8 re |
 r16 red16 dod red dod red dod red  dod8 dod16 dod16 dod8 dod |
 
  
+% bar 49
+dod8 r sold' r mi r dod red |
+mi16 red mi red mi red mi red  mi sold'\mp sold sold sold sold sold sold |
+fad fad red red sid sid fad fad mi8 r8 r4 |
+r2 r16 sold sold sold sold sold sold sold |
+

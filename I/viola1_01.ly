@@ -90,3 +90,10 @@ fad2 fad8 si16 si la8 dod |
 dod mi16 mi  la8 dod,  fad la,16 la   re8 sold, |
 dod16 sid dod sid   dod sid dod sid  dod8 la16 la   sold8 fad |
 
+% bar 49
+mi8 mi'16 mi  sold,8 la   mi fad16 fad  dod8 r8 |
+r2  r16 mi''16\mp mi mi mi dod mi mi |
+red red sid sid   fad fad red red  dod mi, mi mi mi mi mi mi | 
+red red red sid sid sid sid fad' mi    mi'' mi mi mi dod mi mi |
+
+

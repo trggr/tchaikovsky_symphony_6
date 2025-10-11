@@ -43,6 +43,13 @@ r1 | r1 |
 r2 r8  <mi mi'>16\f   <mi mi'>   <mi mi'>8  <mi mi'> |
 <dod dod'>2 r2 |
 
-% page 8   
+% skipped several pages
+r1 * 8 |
 
+% page 49
+r1 * 2 |
+r2 r8 <mi re'>8\mp\<  <red red'>8. <red red'>16\! |
+<red red'>8. <dod dod'>16   <dod si'>8. <lad lad'>16 <sold sold'>8 r8 r4|
+
+ 
 

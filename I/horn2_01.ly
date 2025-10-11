@@ -35,5 +35,13 @@ r2 r8  <mi mi,>16\mf   <mi mi,>   <mi mi,>8  <mi mi,> |
 <dod dod,>2 r2 |
 r1 * 3 |
 
+% skipped several pages
+r1 * 4 |
 
+% page 49
+r1 * 2 |
+r2 r8 si'8\mp\< si8. si16\! |
+sib8. sol16 sol8. mib16 mib8 r8 r4|
+
+ 
 

@@ -24,5 +24,7 @@ r1 * 12 |
 r1 * 3 |
 r2  r8 dod'8 si la |
 
-
+% page 9 49
+sold8 r8 r4 r2 |
+r1 * 3 |
 

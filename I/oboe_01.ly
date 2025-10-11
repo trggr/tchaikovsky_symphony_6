@@ -37,3 +37,7 @@ r2 r8 fad8 mi re |
 dod8 si la sold fad mi re dod |
 dod'16 re dod re dod re dod re   dod8 r8 r4 |
 r1 * 2 |
+
+%page 49
+r1 * 3 |
+r4 sold4\sf\> (sold8\!) r8 r4 |
