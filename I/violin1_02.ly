@@ -32,7 +32,7 @@ r1 * 2 |
 
 r1 |
 r2 r4 sib'8\p\< si |
-do8\! r8  sib16\p\< sib si si  dod8\! r8  dod8\p\< dodd |
+do8\! r8  sib16\p\< sib si si  do8\! r8  dod8\p\< dodd |
 red8\! r8  dod16\p\< dod dodd dodd    red8\! r8  mi\mp\< mid |
 
 

@@ -41,3 +41,9 @@ r1 * 2 |
 %page 49
 r1 * 3 |
 r4 sold4\sf\> (sold8\!) r8 r4 |
+
+%-- 53
+r1 |
+r4 sold sold16 sold' sold sold sold sold mi mi |
+red8 si si r8  r16 red red red red red la la |
+sold8 sold sold r8 r16 <si mi,> <si mi,> <si mi,> <si mi,> <si sold'> <sold mi'> <sold mi'> |

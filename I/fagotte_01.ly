@@ -62,9 +62,12 @@ r1 * 2 |
 r8 sold'8 fad mi re dod  si8 r8 |
 r1 |
 
-% page 49
+%-- 49
 r1 |
 r2 r8 dod8\mp mi sold |
 sid red sold4 sold8 r8 r4 |
 r2 r8 dod,8 mi sold |
 
+%-- 53
+sid,8 red sold4 sold8 r8 r4 |
+r1 * 3 |

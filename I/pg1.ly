@@ -153,32 +153,35 @@ nineBarBreak = {
      }
    >>
    
-    \new Staff \with { instrumentName = "Horn 1 in F"
-                       shortInstrumentName = "Hrn.1"
-                       \transposition fa
+    \new StaffGroup \with {instrumentName = "Horn in F"
+                            shortInstrumentName = \markup { \column {"Hrn." "in F." } }
+                            midiInstrument = "french horn"
     } <<
-      \set Staff.midiInstrument = "french horn"
-        \key do \major
-        \clef treble
-        
-        \relative do' {
-          \include "horn1_01.ly"
-      }
-  >>
-
-    \new Staff \with { instrumentName = "Horn 2 in F"
-                       shortInstrumentName = "Hrn.2"
-                       \transposition fa
-    } <<
-      \set Staff.midiInstrument = "french horn"
-        \key do \major
-        \clef treble
-        
-        \relative do' {
-          \include "horn2_01.ly"
-      }
-     >>
-
+        \new Staff \with {% instrumentName = "Horn 1 in F"
+                          % shortInstrumentName = "Hrn.1"
+                           \transposition fa
+        } <<
+            \key do \major
+            \clef treble
+            
+            \relative do' {
+              \include "horn1_01.ly"
+          }
+        >>
+    
+        \new Staff \with {% instrumentName = "Horn 2 in F"
+                          % shortInstrumentName = "Hrn.2"
+                           \transposition fa
+        } <<
+            \key do \major
+            \clef treble
+            
+            \relative do' {
+              \include "horn2_01.ly"
+          }
+        >>
+    >>
+    
     \new StaffGroup \with {instrumentName = "Violin 1"
                             shortInstrumentName = \markup { \column {"Viol.1" "div." } }
                             midiInstrument = "violin"
@@ -209,8 +212,8 @@ nineBarBreak = {
         >>
     >>
       
-    \new Staff \with { instrumentName = "Violin2"
-                      shortInstrumentName = "Viol2.1"
+    \new Staff \with { instrumentName = "Violin 2"
+                      shortInstrumentName = "Viol.2"
                       midiInstrument = "violin"
                       midiChorusLevel = #0.4
                     } <<

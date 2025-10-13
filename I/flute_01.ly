@@ -57,3 +57,9 @@ sold'16 la sold la sold la sold la sold8 r8 r4 |
 r2 r8 dod,, mi sold |
 sid red sold4 sold8 r8 r4 |
  
+%-- 53
+r2 r8 dod,, mi sold |
+sid red sold4 sold8 r8 r4 |
+r1 |
+r2 r16 mi mi mi mi red dod si |
+
