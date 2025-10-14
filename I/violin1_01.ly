@@ -65,4 +65,9 @@ dod'16 fad, dod' fad, dod' fad, dod' fad,   dod'\mp dod' dod dod   dod la sid do
 sold la sold fad mi red dod sid   dod8 r8 r4 |
 r2 r16 dod' dod dod dod mi sid dod |
 
+%-- 53
+sold16 la sold fad mi red dod sid dod8 r8 r4 |
+r1 |
+r16 sold sold sold sold fad mi red dod8 lad si r8 |
+r16 mi mi mi mi red dod si  la8 fadd sold r8 |
 

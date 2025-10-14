@@ -68,3 +68,9 @@ dod2 dod8 sold,8\mp r4 |
 sold'2 sold16 dod dod dod dod mi red dod |
 sid dod sid la sold la sold sold, sol8 sol r4 |
 
+%-- 53
+sold'2 sold16 dod dod dod dod mi red dod |
+sid dod sid la sold la sold sold, sold8 r8 r4 |
+r16 si' si si si si si si fad8 (fad) fad r8 |
+r16 sold sold sold sold sold sold sold si,8 (si) si r8 |
+

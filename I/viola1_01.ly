@@ -96,4 +96,10 @@ r2  r16 mi''16\mp mi mi mi dod mi mi |
 red red sid sid   fad fad red red  dod mi, mi mi mi mi mi mi | 
 red red red sid sid sid sid fad' mi    mi'' mi mi mi dod mi mi |
 
+%-- 53
+red16 red sid sid fad fad red red dod mi, mi mi mi mi mi mi |
+red red red sid sid sid sid fad' mi8 r8 r4 |
+r16 la la la la la la la la8 la la r8 |
+r16 mi mi mi mi mi mi mi mi8 mi mi r8 |
+
 

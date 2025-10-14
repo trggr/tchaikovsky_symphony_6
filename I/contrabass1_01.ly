@@ -63,3 +63,9 @@ r2 r4 r8 sid8\p |
 dod2 dod8 dod,\mp r4 |
 dod'2 dod16 dod dod dod dod dod dod dod |
 dod dod dod sold sold sold sold dod, dod8 dod r4 |
+
+%-- 53
+dod'2 dod16 dod16 dod16 dod16 dod16 dod16 dod16 dod16 |
+dod16 dod16 dod16 sold sold sold sold dod, dod8 r8 r4 |
+r1 |
+r1 |
