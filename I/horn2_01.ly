@@ -47,5 +47,11 @@ sib8. sol16 sol8. mib16 mib8 r8 r4|
 r2 r8 si'8\mp\< si8. si16\! |
 sib8. sol16 sol8. mib16 mib8 r8 r4|
 r1 * 2 |
+
+%-- 57
+r1 |
+r1 |
+r2 r8 solb8 solb8. solb16 |
+fa8. re16 re8. sib16 sib8 r8 r4 |
  
 

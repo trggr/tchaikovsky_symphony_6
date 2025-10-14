@@ -74,4 +74,10 @@ r2 r16 mi'16 mi mi mi re do si |
 si8 mid, fad r8 r16 si si si si la sol fad |
 mi8 dod re r8 r16 sol sol sol sol fad mi re |
 
+%-- 57
+re8 la lad r8 r16 re' re re re dod si lad |
+sol8 mid fad r r2 |
+r1 |
+r4 fad, fad8 r8 r4 |
+
 

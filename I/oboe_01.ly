@@ -47,3 +47,11 @@ r1 |
 r4 sold sold16 sold' sold sold sold sold mi mi |
 red8 si si r8  r16 red red red red red la la |
 sold8 sold sold r8 r16 <si mi,> <si mi,> <si mi,> <si mi,> <si sold'> <sold mi'> <sold mi'> |
+
+%-- 57
+<fadd red'>8 <la fad'> <red fadd> r8 r16 <si fadd'> <si fadd'> <si fadd'> <si fadd'> <lad fadd'> <sold dod> <fadd dod'> |
+<mi si'>8 <dodd si'> <red si'> r8 r2 |
+r2 r8 sold8 si red |
+<fadd, fadd'>8 <lad lad'> <red red'>4 <red red'>8 r8 r4 |
+  
+
