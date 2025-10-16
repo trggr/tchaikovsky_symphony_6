@@ -71,3 +71,8 @@ r1 |
 r16 sold sold sold sold fad mi red dod8 lad si r8 |
 r16 mi mi mi mi red dod si  la8 fadd sold r8 |
 
+%-- 57
+r16 si' si si si lad sold fadd mi8 dodd red r8 |
+r2 r16 sold' sold sold sold sold fadd sold |
+red mi red dod si lad sold fadd sold8 r8 r4 |
+r2 r16 sold' sold sold sold si fadd sold |

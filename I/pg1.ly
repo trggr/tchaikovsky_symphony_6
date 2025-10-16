@@ -1,4 +1,4 @@
-\version "2.24.0"
+\version "2.25.29"
 \language "italiano"
 
 \paper {
@@ -229,6 +229,8 @@ nineBarBreak = {
                              midiInstrument = "viola"
                              midiChorusLevel = #0.3
                              midiPanPosition = #0.3
+                             midiMinimumVolume = #0.1
+                             midiMaximumVolume = #0.5
       } <<
         \new Staff \with { 
                         } <<
@@ -273,10 +275,7 @@ nineBarBreak = {
             }
           >>
       
-          \new Staff \with { %instrumentName = "Violoncello 2"
-                             %midiChorusLevel = #0.3
-                             %shortInstrumentName = "Vc.2"
-          } <<
+          \new Staff <<
             \set Staff.midiInstrument = "cello"
             \relative do {
               \clef bass
@@ -286,16 +285,15 @@ nineBarBreak = {
           >>
       >>
 
-    \new StaffGroup \with { instrumentName      = "Contrabass <divisi>"
-                            shortInstrumentName = \markup { \column {"Kb." "div." } }
+    \new StaffGroup \with {instrumentName      = "Contrabass <divisi>"
+                           shortInstrumentName = \markup { \column {"Kb." "div." } }
                            midiChorusLevel = #1
                            midiInstrument = "contrabass"
-                           midiMinimumVolume = #0.1  % Adjust the minimum (for soft dynamics)
-                           midiMaximumVolume = #0.5  % Adjust the maximum (for loud dynamics)
+                           % midiInstrument = "pizzicato strings"
+                           midiMinimumVolume = #0.1
+                           midiMaximumVolume = #0.5
     } <<
-        \new Staff \with { %instrumentName = "Contrabass 1"
-                           %shortInstrumentName = "Cb.1"
-        } <<
+        \new Staff <<
             \relative do {
               \clef "bass_8"
               \global
@@ -303,18 +301,11 @@ nineBarBreak = {
             }
         >>
     
-        \new Staff \with { %instrumentName = "Contrabass 2"
-                           %shortInstrumentName = "Cb.2"
-%                           midiMinimumVolume = #0.1  % Adjust the minimum (for soft dynamics)
-%                           midiMaximumVolume = #0.5  % Adjust the maximum (for loud dynamics)
-%                           midiChorusLevel = #0.3
-%                           midiInstrument = "contrabass"
-        } <<
+        \new Staff <<
           \transpose do do, {
             \relative do {
               \clef "bass_8"
               \global
-    
               \include "contrabass2_01.ly"
             }
           }

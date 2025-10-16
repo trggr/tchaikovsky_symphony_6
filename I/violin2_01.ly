@@ -62,3 +62,10 @@ r2 r16 sold sold sold sold sold sold sold |
 %-- 53
 fad'16 fad red red sold, sold fad fad mi8 r8 r4 |
 r1 | r1 | r1 |
+
+%-- 57
+r1 |
+r2 r16 <sold red'> <sold red'> <sold red'> <sold red'> <sold red'> si si |
+lad lad lad lad dod, dod dod dod si8 r8 r4 |
+r2 r16 red' red red red red red red |
+

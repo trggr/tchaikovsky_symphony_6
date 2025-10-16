@@ -103,3 +103,13 @@ r16 la la la la la la la la8 la la r8 |
 r16 mi mi mi mi mi mi mi mi8 mi mi r8 |
 
 
+%-- 57
+r16 dod' dod dod dod dod dod dod   dod8 dod dod r |
+
+r16 <sold si> <sold si> <sold si> 
+<sold si> <sold si> <sold si> <sold si>
+<red sold>8 <red sold> <red sold> red''16 red |
+
+dod dod fadd, fadd fadd fadd lad, lad sold sold sold sold sold si lad sold |
+fadd sold fadd mi red mi red8    r16  si'' si si si sold si si |
+
