@@ -43,7 +43,9 @@ r2 r8 dod, mi sold |
 sid, red sold4 sold8 r8 r4 |
 r1 |
 r2 r16 si si si si si sold sold |
+\break
 
 %-- 57
 fadd8 r8 r4 r16 fadd,16 fadd fadd fadd fadd r8 |
 r1 | r1 | r1 |
+\break

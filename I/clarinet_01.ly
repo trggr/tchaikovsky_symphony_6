@@ -73,11 +73,19 @@ r1 |
 r2 r16 mi'16 mi mi mi re do si |
 si8 mid, fad r8 r16 si si si si la sol fad |
 mi8 dod re r8 r16 sol sol sol sol fad mi re |
+\break
 
 %-- 57
 re8 la lad r8 r16 re' re re re dod si lad |
 sol8 mid fad r r2 |
 r1 |
 r4 fad, fad8 r8 r4 |
+\break
+
+%-- 61
+r1 |
+r4 fad fad16 si' si si si la sol fad |
+fad8 sid dod r r16 fad fad fad fad mi re dod |
+si8 sold la r r16 re re re re dod si la |
 
 

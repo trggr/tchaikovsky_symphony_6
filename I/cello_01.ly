@@ -73,9 +73,11 @@ sold'2 sold16 dod dod dod dod mi red dod |
 sid dod sid la sold la sold sold, sold8 r8 r4 |
 r16 si' si si si si si si fad8 (fad) fad r8 |
 r16 sold sold sold sold sold sold sold si,8 (si) si r8 |
+\break
 
 %-- 57
 r16 red' red red red red red red lad8 lad lad r8 |
 r16 red red red red dod si lad  sold8 mid fad r8 |
 red2 red16 si si si si si si si |
 lad lad lad fadd fadd fadd fadd mi' re8 red, r4 |
+\break

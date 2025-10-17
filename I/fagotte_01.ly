@@ -70,11 +70,12 @@ r2 r8 dod,8 mi sold |
 
 %-- 53
 sid,8 red sold4 sold8 r8 r4 |
-r1 * 3 |
+r1 | r1 | r1 |
+\break
 
 %-- 57
 r1 |
 r2 r8 sold,, si red  |
 fadd lad red4 red8 r8 r4 |
 r4 r8 r16 red,,16 red8 sold si red |
-
+\break

@@ -39,12 +39,20 @@ r1 |
 r2 r16 sol''16 sol sol sol sol mi mi  |
 re8 sold, fad r8 r16 do' do do do do la la |
 sol8 mi re r8 r16 re re re re si' sol sol |
+\break
 
 %-- 57
 fad8 fad' lad, r8   r16 mi' mi mi  mi mi dod dod |
 si8 sol fad r r2 |
 r1 |
 r1 |
+\break
+
+%-- 61
+r1 |
+r2 r16 re' re re re re si si |
+la8 red, dod r r16 sol' sol sol sol sol mi mi |
+re8 si la r r16 re' re re re fad re re |
 
 
 

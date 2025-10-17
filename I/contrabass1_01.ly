@@ -69,6 +69,7 @@ dod'2 dod16 dod16 dod16 dod16 dod16 dod16 dod16 dod16 |
 dod16 dod16 dod16 sold sold sold sold dod, dod8 r8 r4 |
 r1 |
 r1 |
+\break
 
 %-- 57
 r1 |
@@ -80,3 +81,4 @@ sold8^\markup {\italic "pizz."} r4 |
 \set Staff.midiInstrument = #"contrabass"
 sold'2^\markup { \upright "arco" } sold16 sold sold sold sold sold sold sold |
 sold16 sold sold red red red red   sold, sold8 sold r4 |
+\break

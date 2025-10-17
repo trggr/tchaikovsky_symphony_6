@@ -1,8 +1,11 @@
-\version "2.25.29"
+\version "2.24.4"
 \language "italiano"
+
+#(set-global-staff-size 18) % Default is 20. Try 18, 16, or 14.
 
 \paper {
   #(set-paper-size "tabloid")
+%  page-breaking = #ly:minimal-breaking
 }
 
 #(set-default-paper-size "legallandscape")
@@ -144,8 +147,8 @@ nineBarBreak = {
    >>
 
    \new Staff \with { instrumentName = "Fagotte 2"
-                      shortInstrumentName = "Fag.2"} <<
-     \set Staff.midiInstrument = "bassoon"
+                      shortInstrumentName = "Fag.2"
+                      midiInstrument = "bassoon"} <<
        \relative do, {
        \global
        \clef bass
@@ -313,6 +316,9 @@ nineBarBreak = {
     >>
 
   >>
-  \layout {}
+
   \midi {}
+  
+  \layout {}
+
 }
