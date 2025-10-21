@@ -57,9 +57,42 @@ r2 r8 sold8 si red |
 \break
   
 %-- 61
-r2 r8 sold si red |
-<fadd,, fadd'> <lad lad'> <red red'>4  <red red'>16 red red red red red si si |
+r2 r8 sold, si red |
+<fadd, fadd'> <lad lad'> <red red'>4  <red red'>16 red red red red red si si |
+
+\mark \markup \fontsize #3 { "C" }
+
 lad8 fad fad r r16 lad lad lad lad lad mi mi |
-red8 dod red r8 r16
-<fadd fadd'> <fadd fadd'> <fadd fadd'> <fadd fadd'>
-<lad fadd'> <sold red'> <fad red'> |
+red8 dodd red r8 r16
+<fad fad'> <fad fad'> <fad fad'> <fad fad'>
+<lad fad'> <sold red'> <fad red'> |
+\break
+
+%-- 65
+<fad dodd'>8 <dod lad'>8 <dodd lad'> r8 r16 <fad dodd'>16 <fad dodd'> <fad dodd'> <fad dodd'> <mid dodd'> sold sold  |
+fad8 fad fad r   r16 <red red'>16 <red red'> <red red'> <red red'> <fad fad'> <mid mid'> <red red'> |
+<dodd dodd'>2 <red red'>8 r8 r4 |
+r2   r16 <fad fad'> <fad fad'> <fad fad'> <fad fad'> <la la'> <sold sold'> <fad fad'> |
+\break
+
+%-- 69
+<mid mid'>2 <fad fad'>8 r8 r4 |
+r1 |
+<<
+   {la'4   do,4    r2}
+     \\
+   {r8 mi8 do8 la8 r2}
+>> |
+<<
+   {la'4   do,4    r2}
+     \\
+   {r8 mi8 do8 la8 r2}
+>> |
+\break
+
+%-- 72
+<fa fa'>8 <red red'> <mi mi'> r8   r2 |
+<fa fa'>8 <red red'> <mi mi'> r8   <red red'>4  <mi mi'>8  r8 |
+<red red'>4  <mi mi'>8        r8   <sid sid'>4  <dod dod'>8 r8 |
+<sid sid'>4  <dod dod'>8      r8   sid4 dod8 r8 |
+\break

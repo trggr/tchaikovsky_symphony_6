@@ -68,3 +68,34 @@ r2 r16 mi mi mi mi red dod si |
 la8 r8 r4 r16 fadd,16 fadd fadd fadd fadd r8 |
 r1 | r1 | r1 |
 \break
+
+%-- 61
+r1 | r1 | r1 | r1 |
+\break
+
+%-- 65
+r1 |
+r2   r16 red'' red red red fad mid red |
+
+\mark \markup \fontsize #2 { "Un poco animando" }
+
+dodd2 red8 r8 r4 |
+r2   r16 fad fad fad fad la sold fad |
+\break
+
+%-- 69
+mid2 fad8 r8 r4 |
+r2 r16 la la la la do, si la |
+fa' mi re do si la fa mi r16 la' la la la do, si la |
+fa' mi re do si la fa mi r16 la' la la la do, si la |
+\break
+
+\mark \markup \fontsize #2 { "Un poco piu animato" }
+\tempo 4 = 132
+
+%-- 73
+r16 la la la la do si la       r  la' la la la do, si la |
+r   la la la la do si la       r  la la la la do si la |
+r   la la la la do si la       r  la la la la dod si la |
+r   la la la la dod si la       r2 |
+\break

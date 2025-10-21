@@ -85,7 +85,34 @@ r4 fad, fad8 r8 r4 |
 %-- 61
 r1 |
 r4 fad fad16 si' si si si la sol fad |
-fad8 sid dod r r16 fad fad fad fad mi re dod |
-si8 sold la r r16 re re re re dod si la |
+fad8 sid, dod r r16 fad fad fad fad mi re dod |
+si8 sold la r r16 re' re re re dod si la |
+\break
+
+%-- 65
+la8 mi mid  r  r16 la  la la la sold fad mid |
+re8 sid dod r  r16 fad fad fad fad la sold fad |
+mid2 fad8 r8 r4 |
+r2  r16 la la la la do si la |
+\break
+
+%-- 69
+sold2 la8 r8 r4 |
+r2    r16 do16 do do   do8 r8 |
+lab16 sol fa mib re do lab sol   r do' do do  do8 r8 |
+lab16 sol fa mib re do lab sol   r do' do do  do8 r8 |
+\break
+
+%-- 72
+r16 do, do do do8 r8  r16 do' do do do8 r8 |
+r16 do, do do do8 r8  fad4 sol8 r8 |
+fad4 sol8 r8 red4 mi8 r8 |
+red4 mid8 r8 red,4 mi8 r8 |
+\break
+
+
+
+
+
 
 

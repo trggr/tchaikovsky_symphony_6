@@ -27,4 +27,29 @@ r2  r8 dod'8 si la |
 % page 9 49
 sold8 r8 r4 r2 |
 r1 * 3 |
+\break
+
+r1 * 12 |
+
+%-- 65
+r1 |
+r2   r16 red red red red fad mid red |
+
+dodd2 red8 r8 r4 |
+r2   r16 fad fad fad fad la sold fad |
+\break
+
+%-- 69
+mid2 fad8 r8 r4 |
+r2 r16 la la la la do si la |
+fa mi re do si la fa mi r16 la' la la la do si la |
+fa mi re do si la fa mi r16 la' la la la do si la |
+\break
+
+%-- 73
+r16 la, la la la do si la      r  la' la la la do si la |
+r   la, la la la do si la      r  la la la la do si la |
+r   la la la la do si la       r  la la la la dod si la |
+r   la la la la dod si la       r2 |
+\break
 
