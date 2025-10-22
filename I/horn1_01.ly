@@ -62,3 +62,14 @@ r1 | r1 |
 r2 r8 <si la'>8\mp\<  <sib sib'>8. <sib sib'>16\! |
 <sib sib'>8. <lab lab'>16   <lab solb'>8. <fa fa'>16 <mib mib'>8 r8 r4|
 \break
+
+%-- 61
+r2 r8 <si' la'>8 <sib sib'>8. <sib sib'>16 |
+<sib sib'>8. <lab lab'>16 <lab solb'>8. <fa fa'>16  <mib mib'>8 r8 r4 |
+r1 | r1 |
+
+%-- 65
+r1 | r1 | r1 |
+r4 <la fa'>4 <sold fad'>8 red' <sold, mi'>8 r8 |
+
+ 

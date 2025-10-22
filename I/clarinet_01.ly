@@ -97,7 +97,7 @@ r2  r16 la la la la do si la |
 \break
 
 %-- 69
-sold2 la8 r8 r4 |
+sold2 (la8) r8 r4 |
 r2    r16 do16 do do   do8 r8 |
 lab16 sol fa mib re do lab sol   r do' do do  do8 r8 |
 lab16 sol fa mib re do lab sol   r do' do do  do8 r8 |

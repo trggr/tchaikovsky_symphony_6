@@ -79,3 +79,70 @@ r2 r8 sold,, si red  |
 fadd lad red4 red8 r8 r4 |
 r4 r8 r16 red,,16 red8 sold si red |
 \break
+
+%-- 61
+fadd8 lad  red4 red8 r8 r4 |
+r4 r8 r16 red,,16 red8 r8 r4 |
+r1 |
+r2 r16 <fad' si>16 <fad si> <fad si> <fad si> <red' fad> <si red> <si red> |
+
+%-- 65
+
+<lad dodd>8 r8 r4 r16 dodd dodd dodd dodd dodd red dodd |
+si8 soldd lad r red,4 red8 r8 |
+mid,2 fad8 r fad lad |
+
+<<
+   {r2 si'8 sold la r8}
+\\
+   {red,4 lad fad fad8 r8}
+>> |
+
+%-- 69
+sold2 (la8) r8 la dod |
+
+<<
+   {r2 re'8 si do r}
+\\
+   {fad,4 dod la la8 r}
+>> |
+
+<<
+   {la''4 do,4  re8 si do r}
+\\
+   {r8 mi8 mi la, sol,4 sol8 r}
+>> |
+
+<<
+   {la''4 do,4  re8 si do r}
+\\
+   {r8 mi8 mi la, sol,4 sol8 r}
+>> |
+
+%-- 73
+<<
+   {do'4 do8 r re si la r}
+\\
+   {la4 la8 r fa,4 fa8 r}
+>> |
+
+<<
+   {do''4 (do8) r do4 (do8) r}
+\\
+   {la4   (la8) r la4 (la8) r}
+>> |
+
+
+<<
+   {do4 (do8) r sol4 (sol8) r }
+\\
+   {la4 (la8) r la4 (la8) r }
+>> |
+
+
+<<
+   {sol4 (sol8) r  sol4 (sol8) r }
+\\
+   {la4 (la8) r la4 (la8) r }
+>> |
+

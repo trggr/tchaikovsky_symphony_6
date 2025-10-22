@@ -62,7 +62,7 @@ r2   r16 fad fad fad fad la sold fad |
 \break
 
 %-- 69
-mid2 fad8 r8 r4 |
+mid2 (fad8) r8 r4 |
 r2 r16 la, la la la do si la |
 fa mi re' do si la fa mi  r  la la la la do si la |
 fa mi re' do si la fa mi  r  la la la la do si la |

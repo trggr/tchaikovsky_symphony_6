@@ -53,13 +53,23 @@ r1 |
 r2 r16 re' re re re re si si |
 la8 red, dod r r16 sol' sol sol sol sol mi mi |
 re8 si la r r16 re' re re re fad re re |
+\break
 
+%-- 65
+dod8 sol fa r r16 si si si si si sold sold |
+fad8 re dod r8 r16 fad fad fad fad la sold fad |
+mid2 fad8 r r4 |
+r2 r16 la la la la do si la |
+\break
 
+%-- 69
+sold'2 (la8) r8 r4 |
+r2 r4 r16 mib' re do |
+lab16 sol fa mib re do lab sol  r4  r16 mib'' re do |
+lab16 sol fa mib re do lab sol  r4  do'16 mib re do |
 
-
-
-
-
-
-
-
+%-- 73
+r4 do,16 mib re do r4 do'16 mib re do |
+r4 do,16 mib re do fad,4 sol8 r8 |
+fad4 sol8 r8 red4 mi8 r8 |
+red4 mi8 r8 r2 |

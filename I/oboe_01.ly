@@ -76,7 +76,7 @@ r2   r16 <fad fad'> <fad fad'> <fad fad'> <fad fad'> <la la'> <sold sold'> <fad 
 \break
 
 %-- 69
-<mid mid'>2 <fad fad'>8 r8 r4 |
+<mid mid'>2 (<fad fad'>8) r8 r4 |
 r1 |
 <<
    {la'4   do,4    r2}
