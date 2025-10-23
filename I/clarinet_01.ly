@@ -36,6 +36,8 @@ r4 re4\pp\< ~ |
 
 \time 4/4
 
+\mark \markup \fontsize #2 { "A" }
+
 re4\> (re8)\! r8 r4   re ~ |
 
 re4\> (re8)\! r8 r4   fa |

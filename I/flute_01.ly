@@ -53,6 +53,9 @@ r1 * 2 |
 
 %-- 49
 r8 fad mi red dod si la sold |
+
+\mark \markup \fontsize #2 { "B" }
+
 sold'16 la sold la sold la sold la sold8 r8 r4 |
 r2 r8 dod,, mi sold |
 sid red sold4 sold8 r8 r4 |

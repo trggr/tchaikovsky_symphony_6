@@ -194,8 +194,35 @@ nineBarBreak = {
             
             \relative do' { \include "trumpet_01.ly"  }
         >>
-    
     >>
+
+    \new StaffGroup \with {instrumentName = "Trombone"
+                           shortInstrumentName = \markup { \column {"A.T." "Pos." "B."} }
+                           midiInstrument = "trombone"  } <<
+        \new Staff \with {  } <<
+            \clef tenor
+            \key si \minor
+            
+            \relative do' { \include "trombone_01.ly"  }
+        >>
+    >>
+
+        \new Staff \with {instrumentName = "Basstuba"
+                           shortInstrumentName = \markup { \column {"Btb."} }
+                           midiInstrument = "tuba"   } <<
+            \clef bass
+            \key si \minor
+            
+            \relative do, { \include "tuba_01.ly"  }
+        >>
+
+        \new Staff \with {instrumentName = "Pauken"
+                           shortInstrumentName = \markup { \column {"Pk."} }
+                           midiInstrument = "timpani"   } <<
+            \clef bass
+            
+            \relative do { \include "pauken_01.ly"  }
+        >>
 
     \new StaffGroup \with {instrumentName = "Violin 1"
                             shortInstrumentName = \markup { \column {"Viol.1" "div." } }
