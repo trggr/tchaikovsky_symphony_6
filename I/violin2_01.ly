@@ -69,3 +69,39 @@ r2 r16 <sold red'> <sold red'> <sold red'> <sold red'> <sold red'> si si |
 lad lad lad lad dod, dod dod dod si8 r8 r4 |
 r2 r16 red' red red red red red red |
 
+%-- 61
+lad16 lad lad lad dod, dod dod dod si8 r8 r4 |
+r1 | r1 | r1 |
+
+%-- 65
+r1 | r1 |
+r16 sold sold sold sold si lad sold lad8 r8 r4 |
+r1 |
+
+%-- 69
+r16 si si si si re dod si la8 r8 r4 |
+r2 r16 la'' la la la do si la |
+<<
+   {fa mi re' do si la fa mi r16 la la la la do si la}
+     \\
+   {fa mi re do si la fa mi r2}
+>> |
+<<
+   {fa'16 mi re' do si la fa mi r16 la la la la do si la}
+     \\
+   {fa16 mi re do si la fa mi r2}
+>> |
+
+%-- 73
+<< {r16 la' la la la do si la   r  la la la la do si la }
+   \\
+   {r16 la, la la la do si la  r2}
+>> |
+<< {r16 la' la la la do si la   r  la la la la do si la }
+   \\
+   {r16 la, la la la do si la  r2}
+>> |
+r16 la' la la la do si la   r  la la la la dod si la |
+r16 la la la la dod si la  r  la, la la la dod si la |
+
+

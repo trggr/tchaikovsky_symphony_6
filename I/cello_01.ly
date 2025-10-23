@@ -81,3 +81,29 @@ r16 red red red red dod si lad  sold8 mid fad r8 |
 red2 red16 si si si si si si si |
 lad lad lad fadd fadd fadd fadd mi' re8 red, r4 |
 \break
+
+%-- 61
+red'2 re16 si si si si si si si |
+lad lad lad fadd fadd fadd fadd mi' re8 red, r4 |
+r16 mi' mi mi mi mi mi mi  mi8 mi mi r8 |
+r16 si  si si si si si si  si8 si si r8 |
+
+%-- 65
+r16 lad lad lad lad lad lad lad sold8 sold sold r8 |
+r16 fad' fad fad fad fad fad fad lad,4 lad8 r8 |
+r16 si si si si sold lad si lad8 r8 r4 |
+r1 |
+
+%-- 69
+r16 re re re re si dod re dod8 r8 r4 |
+r2 <mi la>4 (<mi la>8) r8 |
+r2 <mi la>4 (<mi la>8) r8 |
+r2 <fa la>4 (<fa la>8) r8 |
+
+%-- 73
+mi4 (mi8) r8 <fa la>4 (<fa la>8) r8 |
+mi4 (mi8) r8 fa4 (mi8) r8 |
+fa4 (mi8) r8 mi4 (mib8) r8 |
+mi4 (mib8) r8 <mi la>4 (<mib la>8) r8 |
+ 
+

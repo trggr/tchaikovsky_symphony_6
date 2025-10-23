@@ -82,3 +82,27 @@ sold8^\markup {\italic "pizz."} r4 |
 sold'2^\markup { \upright "arco" } sold16 sold sold sold sold sold sold sold |
 sold16 sold sold red red red red   sold, sold8 sold r4 |
 \break
+
+%-- 61
+sold'2 sold16 sold sold sold sold sold sold sold |
+sold16 sold sold red red red red sold, sold8 sold r4 |
+r16 fad'' fad fad fad fad fad fad dod8 dod dod r8 |
+r16 red red red red red red red fad,8 fad8 fad r8 |
+
+%-- 65
+r16 sold'16 sold sold sold sold sold sold mid8 mid mid r8 |
+r16 red red red red red red red red,4 re8 r8 |
+mid,2 fad8 r8 r4 |
+r1 |
+
+%-- 69
+sold2 la8 r8 r4 |
+r2 la'4 (la8) r8 |
+r2 sol4 (sol8) r8 |
+r2 fa4 (fa8) r8 |
+
+%-- 73
+mi4 mi8 r8  fa4 fa8 r8 |
+mi4 mi8 r8  fa4 mi8 r8 |
+fa4 mi8 r8  mi4 mib8 r8 |
+mi4 mib8 r8 mi4 mib8 r8 |

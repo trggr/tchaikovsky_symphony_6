@@ -232,8 +232,8 @@ nineBarBreak = {
                              midiInstrument = "viola"
                              midiChorusLevel = #0.3
                              midiPanPosition = #0.3
-                             midiMinimumVolume = #0.1
-                             midiMaximumVolume = #0.5
+%                             midiMinimumVolume = #0.1
+%                             midiMaximumVolume = #0.5
       } <<
         \new Staff \with { 
                         } <<

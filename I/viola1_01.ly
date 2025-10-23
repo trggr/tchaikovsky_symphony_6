@@ -114,3 +114,27 @@ dod dod fadd, fadd fadd fadd lad, lad sold sold sold sold sold si lad sold |
 fadd sold fadd mi red mi red8    r16  si'' si si si sold si si |
 \break
 
+%-- 61
+dod16 dod fadd, fadd fadd fadd lad, lad sold sold sold sold sold si lad sold |
+fadd sold fadd mi red mi red8 r2 |
+r16 red' red red red dod si lad    sold8 mid fad r8 |
+r16 si si si si lad sold fad    mi8 dodd red r8 |
+
+%-- 65
+r16 fad' fad fad fad mid red dodd si8 soldd lad r8 |
+r16 red red red red dod si lad sold8 mid fad r8 |
+r16 si si si si sold lad si fad8 r8 r4 |
+r1 |
+
+%-- 69
+r16 re' re re re si dod re dod8 r8 r4 |
+r2 re8 si do r8 |
+r8 re'16 do si la fa mi re8 si do r8 |
+r8 re'16 do si la fa mi re8 si do r8 |
+
+%-- 73 
+r16 la' la la la do si la  red,8 si do r8 |
+r16 la' la la la do si la  <la do>4 (<la do>8) r8 |
+<la do>4 (<la do>8) r8 <sol la>4 (<sol la>8) r8 |
+<sol la>4 (<sol la>8) r8 sol,4 sol8 r8 |
+
