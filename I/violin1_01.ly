@@ -78,3 +78,26 @@ r2 r16 sold' sold sold sold sold fadd sold |
 red mi red dod si lad sold fadd sold8 r8 r4 |
 r2 r16 sold' sold sold sold si fadd sold |
 \break
+
+%-- 61 (C)
+red16 mi red dod si lad sold fadd sold8 r8 r4 |
+r1 | r1 | r1 |
+
+%-- 65 (un poco animando)
+r1 | r1 |
+r16 sold sold sold sold si lad sold fad8 r8 r4 |
+r1 |
+
+%-- 69
+r16 si si si si re dod si la8 r8 r4 |
+r2 r16 la'' la la la do si la |
+fa mi re do si la fa mi r la' la la la do si la |
+fa mi re do si la fa mi r la' la la la do si la |
+
+%-- 73 (un poco piu animato)
+r16 la, la la la do si la r la' la la la do si la |
+r16 la, la la la do si la r la la la la do si la  |
+r16 la la la la do si la  r la la la la dod si la  |
+r16 la la la la dod si la r la, la la la dod si la  |
+
+

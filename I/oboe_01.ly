@@ -90,7 +90,7 @@ r1 |
 >> |
 \break
 
-%-- 72
+%-- 73
 <fa fa'>8 <red red'> <mi mi'> r8   r2 |
 <fa fa'>8 <red red'> <mi mi'> r8   <red red'>4  <mi mi'>8  r8 |
 <red red'>4  <mi mi'>8        r8   <sid sid'>4  <dod dod'>8 r8 |

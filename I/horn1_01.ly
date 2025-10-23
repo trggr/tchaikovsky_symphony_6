@@ -72,4 +72,45 @@ r1 | r1 |
 r1 | r1 | r1 |
 r4 <la fa'>4 <sold fad'>8 red' <sold, mi'>8 r8 |
 
+%-- 69
+r1 |
+r4 <do sold'>4\ff <si la'>8 fad' <si, sol'>8 r8 |
+<<
+   {r2 la'8 fad sol r8}
+     \\
+   {r2 si,4  si8 r8}
+>> |
+<<
+   {r2 la'8 fad sol r8}
+     \\
+   {r2 do,4  do8 r8}
+>> |
+
+%-- 73
+<<
+   {sol''4 sol8 r la, fad sol r}
+   \\
+   {mi'4 mi8 r do,4 do8 r}
+>> |
+
+<<
+   {sol''4   (sol8) r sol4 (sol8) r}
+   \\
+   {mi4 (mi8) r mi4 (mi8) r}
+>> |
+
+
+<<
+   {sol4   (sol8) r re4 (re8) r}
+   \\
+   {mi4 (mi8) r mi4 (mi8) r}
+>> |
+
+
+<<
+   {mi4 (mi8) r2}
+   \\
+   {re4  (re8) r sol,4 (sold8) r}
+>> |
+\break
  
