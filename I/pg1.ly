@@ -4,11 +4,11 @@
 #(set-global-staff-size 18) % Default is 20. Try 18, 16, or 14.
 
 \paper {
-  #(set-paper-size "tabloid")
+  #(set-paper-size "ledger")
 %  page-breaking = #ly:minimal-breaking
 }
 
-#(set-default-paper-size "legallandscape")
+%#(set-default-paper-size "legallandscape")
 
 global = {
   \time 4/4
@@ -184,7 +184,19 @@ nineBarBreak = {
           }
         >>
     >>
+
+    \new StaffGroup \with {instrumentName = "Trumpet in Bb"
+                           shortInstrumentName = \markup { \column {"Trp.1.2" "in Bb" } }
+                           midiInstrument = "trumpet"  } <<
+        \new Staff \with { \transposition sib } <<
+            \key do \major
+            \clef treble
+            
+            \relative do' { \include "trumpet_01.ly"  }
+        >>
     
+    >>
+
     \new StaffGroup \with {instrumentName = "Violin 1"
                             shortInstrumentName = \markup { \column {"Viol.1" "div." } }
                             midiInstrument = "violin"
