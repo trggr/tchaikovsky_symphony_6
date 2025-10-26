@@ -96,3 +96,9 @@ r1 |
 <red red'>4  <mi mi'>8        r8   <sid sid'>4  <dod dod'>8 r8 |
 <sid sid'>4  <dod dod'>8      r8   sid4 dod8 r8 |
 \break
+
+\mark \markup \fontsize #3 { "D" }
+%-- 74
+sid4 dod8 r8 r2 |
+r1 | r1 | r1 |
+\break

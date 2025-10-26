@@ -132,13 +132,11 @@ sold2 (la8) r8 la dod |
    {la4   (la8) r la4 (la8) r}
 >> |
 
-
 <<
    {do4 (do8) r sol4 (sol8) r }
 \\
    {la4 (la8) r la4 (la8) r }
 >> |
-
 
 <<
    {sol4 (sol8) r  sol4 (sol8) r }
@@ -146,3 +144,27 @@ sold2 (la8) r8 la dod |
    {la4 (la8) r la4 (la8) r }
 >> |
 
+%-- 77 D
+<<
+   {sol4 (sol8) r  mi,4 mib8 r }
+\\
+   {la'4 (la8) r la,4 (la8) r }
+>> |
+
+<<
+   {mi4 mib8 r r4 mib4}
+\\
+   {la4 (la8) r r4 la4 }
+>> |
+
+<<
+   {mi4 mib8 r r4 mib4}
+\\
+   {la4 (la8) r r4 la4 }
+>> |
+
+<<
+   {mi8 r r4 r2}
+\\
+   {la8 r r4 r2}
+>> |

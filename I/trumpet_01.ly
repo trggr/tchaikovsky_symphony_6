@@ -51,3 +51,5 @@ r1 | r1 |
 <sol sol'>8 <mid mid'> <fad fad'> r   <mid mid'>4 <fad fad'>8 r |
 <mid mid'>4 <fad fad'>8 r  <re re'>4 <mib mib'>8 r |
 <re re'>4 <mib mib'>8 r r2 |
+
+%-- 77 D

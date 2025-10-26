@@ -27,3 +27,15 @@ mi4 mi8  r  fa4 mi8  r |
 fa4 mi8  r  mi4 mib8 r |
 mi4 mib8 r  mi4 mib8 r |
 
+%-- 77 D
+mi4 mib8 r8 r2 |
+r1 |
+r2 r4 mib4 |
+mib4 mib8 r8 r2 |
+
+%-- 81 ritardando molto
+r2 mib2\pp  |
+mi2 re2 ~ |
+re2 (re8) r8 r4 |
+r1 |
+

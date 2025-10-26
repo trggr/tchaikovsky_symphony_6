@@ -73,3 +73,9 @@ r4 do,16 mib re do r4 do'16 mib re do |
 r4 do,16 mib re do fad,4 sol8 r8 |
 fad4 sol8 r8 red4 mi8 r8 |
 red4 mi8 r8 r2 |
+
+%-- 77 D
+r2 mi,4\mf (mi8) r8 |
+mi4 (mi8) r8 r4 mi4\mp ~|
+mi4 (mi8) r8 r4 mi4\p ~|
+mi8 r8 r4 r2 |

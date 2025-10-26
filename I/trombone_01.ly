@@ -49,4 +49,17 @@ r1 | r1 |
 <la do>4 <la do>8   r  <sol la>4 <sol la>8 r  |
 <sol la>4 <sol la>8 r  <sol la>4 <sol la>8 r  |
 
+%-- 77 D
+<sol la>4 <sol la>8 r8 r2 |
+r1 |
+r2 r4 <dod, sol'>4 |
+<dod sol'>4 <dod sol'>8 r8 r2 |
+
+%-- 81 ritardando molto
+r2 dod2\pp ~|
+dod2 re2 ~|
+re2 (re8) r8 r4 |
+\mark \markup \fontsize #2 { "ritardando molto" }
+r1 |
+
 

@@ -106,3 +106,6 @@ r4 <do sold'>4\ff <si la'>8 fad' <si, sol'>8 r8 |
 >> |
 \break
  
+%-- 77 D
+sol4 sold8 r8 r2 |
+r1 | r1 | r1 |

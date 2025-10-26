@@ -104,4 +104,9 @@ r2 r16 la'' la la la do si la |
 r16 la' la la la do si la   r  la la la la dod si la |
 r16 la la la la dod si la  r  la, la la la dod si la |
 
+%-- 77 D
+r16 la la la la dod si la r la,\mf la la la dod si la |
+r16 la la la la dod si la r la\mp la la la dod si la |
+la dod si la la dod si la r2 |
+r1 |
 

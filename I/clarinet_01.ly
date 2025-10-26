@@ -105,16 +105,15 @@ lab16 sol fa mib re do lab sol   r do' do do  do8 r8 |
 lab16 sol fa mib re do lab sol   r do' do do  do8 r8 |
 \break
 
-%-- 72
+%-- 73
 r16 do, do do do8 r8  r16 do' do do do8 r8 |
 r16 do, do do do8 r8  fad4 sol8 r8 |
 fad4 sol8 r8 red4 mi8 r8 |
 red4 mid8 r8 red,4 mi8 r8 |
 \break
 
-
-
-
-
-
-
+%-- 77 D
+red4 mi8 r8 si4 si8 r8 |
+si4 si8 r8 r4 si4 |
+si4 si8 r8 r4 si4 |
+si8 r8 r4 r2 |

@@ -105,5 +105,21 @@ mi4 (mi8) r8 <fa la>4 (<fa la>8) r8 |
 mi4 (mi8) r8 fa4 (mi8) r8 |
 fa4 (mi8) r8 mi4 (mib8) r8 |
 mi4 (mib8) r8 <mi la>4 (<mib la>8) r8 |
- 
+
+%-- 77 D
+<mi la>4 <mib la>8 r8 la,4 la8 r8 |
+la4 la8 r8 r4 la4 |
+la4 la8 r8 r2 |
+r2 r16 la\pp la la la dod si la |
+
+%-- 81 ritardando molto
+la16 dod si la  la dod si la  la dod si la  la dod si la |
+\tempo 4 = 100
+la16 dod si la  la dod si la  la re si la  la re si la |
+\tempo 4 = 80
+la16 re si la  la re si la  la re si la  la re si la |
+\tempo 4 = 69
+\tuplet 3/2 {la8 re si} \tuplet 3/2 {la8 re si} \tuplet 3/2 {la8 re si} \tuplet 3/2 {la8 re si} |
+
+
 

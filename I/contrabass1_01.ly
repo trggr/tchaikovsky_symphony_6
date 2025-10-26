@@ -106,3 +106,9 @@ mi4 mi8 r8  fa4 fa8 r8 |
 mi4 mi8 r8  fa4 mi8 r8 |
 fa4 mi8 r8  mi4 mib8 r8 |
 mi4 mib8 r8 mi4 mib8 r8 |
+
+%-- 77 D
+mi4 mib8 r8 mi4 mib8 r8 | 
+mi4 mib8 r8 r4 mib4 |
+mi4 mi8 r8 r2 |
+r1 |

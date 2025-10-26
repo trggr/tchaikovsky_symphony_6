@@ -4,11 +4,19 @@
 #(set-global-staff-size 18) % Default is 20. Try 18, 16, or 14.
 
 \paper {
-  #(set-paper-size "ledger")
-%  page-breaking = #ly:minimal-breaking
-}
+  % #(set-paper-size "ansi c" 'landscape)
+%  paper-width = 432\mm   % ~17 inches (Ledger/Tabloid width)
+%  paper-height = 279\mm  % ~11 inches (Ledger/Tabloid height)
 
-%#(set-default-paper-size "legallandscape")
+  %paper-width = 500\mm
+  %paper-height = 330\mm
+  %line-width = 450\mm
+
+  paper-height = 500\mm
+  paper-width = 330\mm
+  line-width = 280\mm
+  
+}
 
 global = {
   \time 4/4
@@ -356,7 +364,13 @@ nineBarBreak = {
 
   >>
 
-  \midi {}
+  \midi {
+  \context {
+      \Score
+      % *** Use this setting to fix the wrap-around error: ***
+      midiChannelMapping = #'instrument 
+    }
+  }
   
   \layout {}
 

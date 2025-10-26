@@ -138,3 +138,8 @@ r16 la' la la la do si la  <la do>4 (<la do>8) r8 |
 <la do>4 (<la do>8) r8 <sol la>4 (<sol la>8) r8 |
 <sol la>4 (<sol la>8) r8 sol,4 sol8 r8 |
 
+%-- 77 D
+sol4 sol8 r8 <sol re>4 <sol re>8 r8 |
+<sol re>4 <sol re>8 r8 r4 <sol re>4 |
+<sol re>4 <sol re>8 r8 r2 |
+r1 |
