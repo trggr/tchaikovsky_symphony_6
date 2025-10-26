@@ -121,5 +121,15 @@ la16 re si la  la re si la  la re si la  la re si la |
 \tempo 4 = 69
 \tuplet 3/2 {la8 re si} \tuplet 3/2 {la8 re si} \tuplet 3/2 {la8 re si} \tuplet 3/2 {la8 re si} |
 
+%-- 85 Adagio
+la8 re si la re si la re |
+fad8 r8 r4 r2 |
+r1 | r1 |
+\clef tenor
+r2 r8 fad'\p mi re |
+si8 la fad la re4. si8 |
+la2 la8 fad' mi re |
+la fad re fad si4. la8 |
+
 
 

@@ -114,3 +114,12 @@ r4 <do sold'>4\ff <si la'>8 fad' <si, sol'>8 r8 |
 >> |
 \break
  
+
+r1 * 8 |
+
+
+%-- 85
+r1 | r1 | r1 | r1 | r1 |
+<dod, dod'>2\pp\< <do do'>\mp\> |
+<dod dod'>8\pp\! <dod dod'>4 <dod dod'>8 <dod dod'>2 |
+<dod dod'>2\pp\< <re re'>\mp\! |

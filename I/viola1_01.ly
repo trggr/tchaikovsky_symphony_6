@@ -143,3 +143,13 @@ sol4 sol8 r8 <sol re>4 <sol re>8 r8 |
 <sol re>4 <sol re>8 r8 r4 <sol re>4 |
 <sol re>4 <sol re>8 r8 r2 |
 r1 |
+
+r1 * 4 |
+
+%-- 85 Adagio
+r1 |
+r8 la\pp re fad la4. si8 |
+si2\< re4. fad8\> |
+fad2\mp fad8\ppp\! r8 r4 |
+r1 | r1 | r1 | r1 |
+

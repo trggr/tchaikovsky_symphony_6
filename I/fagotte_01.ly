@@ -168,3 +168,14 @@ sold2 (la8) r8 la dod |
 \\
    {la8 r r4 r2}
 >> |
+
+%-- 81 ritardando molto
+r1 * 4 |
+\break
+
+%-- 85
+r1 | r1 | r1 | r1 | r1 |
+la2\pp\< sold2\mp\> |
+la1\pp\! |
+la2\< la2\mp\! |
+

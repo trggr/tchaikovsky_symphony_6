@@ -79,3 +79,13 @@ r2 mi,4\mf (mi8) r8 |
 mi4 (mi8) r8 r4 mi4\mp ~|
 mi4 (mi8) r8 r4 mi4\p ~|
 mi8 r8 r4 r2 |
+
+%-- 81 ritardando molto
+r1 * 4 |
+\break
+
+%-- 85
+r1 | r1 | r1 | r1 | r1 | r1 | r1 |
+r2 sol2\mp |
+
+

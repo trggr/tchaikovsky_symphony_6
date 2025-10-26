@@ -106,6 +106,11 @@ r16 la la la la dod si la r la\mp la la la dod si la |
 la dod si la la dod si la r la\p la la la dod si la |
 la\> dod si la la dod si la\! r2 |
 
+r1 * 4 |
 
-
-
+%-- 85 Adagio
+r1 | r1 | r1 | r1 |
+r2 r8 fad''\p mi re |
+si la fad la re4. si8 |
+la2 la8 fad' mi re |
+la fad re fad si4. la8 |

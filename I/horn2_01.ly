@@ -109,3 +109,12 @@ r4 <do sold'>4\ff <si la'>8 fad' <si, sol'>8 r8 |
 %-- 77 D
 sol4 sold8 r8 r2 |
 r1 | r1 | r1 |
+
+r1 * 4 |
+
+
+%-- 85
+r1 | r1 | r1 | r1 | r1 |
+<la, la'>2\pp\< <la fad'>\mp\> |
+<la la'>8\pp\! <la la'>4 <la la'>8 <la la'>2 |
+<la la'>2\pp\< <sold sold'>\mp\! |

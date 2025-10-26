@@ -112,3 +112,11 @@ mi4 mib8 r8 mi4 mib8 r8 |
 mi4 mib8 r8 r4 mib4 |
 mi4 mi8 r8 r2 |
 r1 |
+
+r1 * 4 |
+%-- 85 Adagio
+r1 | r1 | r1 | r1 | r1 | 
+fad2\pp fad\mp |
+fad1\pp |
+fad2 fad |
+

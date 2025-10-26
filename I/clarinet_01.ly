@@ -117,3 +117,20 @@ red4 mi8 r8 si4 si8 r8 |
 si4 si8 r8 r4 si4 |
 si4 si8 r8 r4 si4 |
 si8 r8 r4 r2 |
+
+%-- 81 ritardando molto
+r1 * 4 |
+\break
+
+%-- 85
+r1 | r1 |
+\mark \markup \fontsize #2 { "Adagio" }
+r1 | r1 |
+\mark \markup \fontsize #2 { "Andante" }
+\tempo 4 = 69
+r1 | 
+r2 sib2\mp |
+do8 r8 r4 r2 |
+r2 sol'2\mp |
+
+
